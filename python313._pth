@@ -1,9 +1,9 @@
-#"./Pozzoli_Brazuca"
+#"./python_embeded"
 ../
 ./
 python313.zip
-./python313\Lib\site-packages
-./python313\Scripts
+./python_embeded\Lib\site-packages
+./python_embeded\Scripts
 .
 
 # Uncomment to run site.main() automatically
